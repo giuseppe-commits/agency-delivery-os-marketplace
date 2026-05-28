@@ -1,0 +1,31 @@
+{
+  "name": "Agency Delivery OS Marketplace",
+  "version": "1.0.0",
+  "description": "Marketplace público (MIT) para o Claude Code listando o framework Agency Delivery OS e plugins relacionados. Mantido por Giuseppe Lira.",
+  "owner": {
+    "name": "Giuseppe Lira",
+    "email": "giuseppe@modernista.digital",
+    "url": "https://github.com/giuseppe-commits"
+  },
+  "plugins": [
+    {
+      "name": "agency-delivery-os",
+      "source": "github:giuseppe-commits/agency-delivery-os",
+      "ref": "v3.1.0",
+      "version": "3.1.0",
+      "description": "Framework de multi-agentes de IA para acelerar entrega de deliverables recorrentes em agências boutique de marketing digital. 28+ skills especializadas (onboarding, calendário, copy, relatórios, críticos), docs canônicos (PRD/ARCHITECTURE/ROADMAP) e templates. Português brasileiro.",
+      "author": "Giuseppe Lira",
+      "license": "MIT",
+      "homepage": "https://github.com/giuseppe-commits/agency-delivery-os",
+      "keywords": [
+        "marketing",
+        "agency",
+        "multi-agent",
+        "claude-code",
+        "framework",
+        "pt-br",
+        "boutique"
+      ]
+    }
+  ]
+}
