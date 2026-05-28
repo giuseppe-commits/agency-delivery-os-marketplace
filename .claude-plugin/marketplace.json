@@ -12,8 +12,7 @@
       "name": "agency-delivery-os",
       "source": {
         "source": "url",
-        "url": "https://github.com/giuseppe-commits/agency-delivery-os.git",
-        "ref": "v3.1.0"
+        "url": "https://github.com/giuseppe-commits/agency-delivery-os.git"
       },
       "version": "3.1.0",
       "description": "Framework de multi-agentes de IA para acelerar entrega de deliverables recorrentes em agências boutique de marketing digital. 28+ skills especializadas (onboarding, calendário, copy, relatórios, críticos), docs canônicos (PRD/ARCHITECTURE/ROADMAP) e templates. Português brasileiro.",
