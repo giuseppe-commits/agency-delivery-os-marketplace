@@ -11,8 +11,8 @@
     {
       "name": "agency-delivery-os",
       "source": {
-        "source": "github",
-        "repo": "giuseppe-commits/agency-delivery-os",
+        "source": "url",
+        "url": "https://github.com/giuseppe-commits/agency-delivery-os.git",
         "ref": "v3.1.0"
       },
       "version": "3.1.0",
